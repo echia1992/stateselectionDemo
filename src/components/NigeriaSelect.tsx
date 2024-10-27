@@ -11,7 +11,6 @@ const NigeriaSelect: React.FC<NigeriaSelectProps> = ({
   className = "",
   selectClassName = "",
   labelClassName = "",
-  errorClassName = "",
   showLabels = true,
   labels = {
     state: "State",
