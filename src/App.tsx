@@ -18,7 +18,7 @@ function App() {
       <div className="max-w-md mx-auto px-3">
         <div className="bg-white p-6 rounded-lg shadow px-4">
           <h1 className="text-2xl font-bold mb-6 py-2">
-            Nigeria state and local govt Selection{" "}
+            Nigeria State and local Govt Selection{" "}
           </h1>
 
           <NigeriaSelect
